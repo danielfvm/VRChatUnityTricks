@@ -9,6 +9,8 @@ There are already some detailed resources related to Shaders for VRChat from pem
 * [shader-knowledge](https://github.com/pema99/shader-knowledge)
 ### Topics
 * Abuse GrabPass for On-Screen stateful shaders (TODO)
+* Depth and ShadowPass (TODO)
+* Geometry shaders (TODO)
 
 ## UdonSharp
 ### Resources
